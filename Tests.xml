@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "UFT-8"?>
+<!DOCTYPE suite System "https://testing.org/testng-1.0.dtd">
+<suite name="SMOKE TEST SUITE" thread-count="1" parallel="methods">
+    <test name = "SMOTE TESTS">
+        <classes>
+            <class name="com.academy.techcenture.LoginTest">
+            <class name="com.academy.techcenture.ProductTest">
+
+            </class>
+        </classes>
+    </test>
+</suite>
